@@ -1,0 +1,39 @@
+_repo: P-iv-kirja_22361
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Löfgren, Elisabeth
+    alias: Lofgren, Elisabeth
+    birthdate: 1851
+    deathdate: 1931
+    gutenberg_agent_id: '24820'
+    url: http://www.gutenberg.org/2009/agents/24820
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Löfving, Stefan
+    aliases:
+    - Lofving, Stefan
+    - Löfving, Tapani
+    birthdate: 1689
+    deathdate: 1777
+    gutenberg_agent_id: '25287'
+    url: http://www.gutenberg.org/2009/agents/25287
+description: ''
+gutenberg_issued: '2007-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22361'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Löfving, Stefan, 1689-1777'
+- !lcsh 'Finland -- Biography'
+- !lcc 'DK'
+- !lcsh 'Northern War, 1700-1721 -- Sources'
+title: Päiväkirja
+url: http://www.gutenberg.org/ebooks/22361
